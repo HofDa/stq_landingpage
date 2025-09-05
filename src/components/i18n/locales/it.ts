@@ -35,7 +35,7 @@ const it = {
 
   // App CTA
   app_h2: "Scarica l’app",
-  app_p: "Web app subito disponibile – installabile come PWA. App native in lavorazione.",
+  app_p: "",
   app_badges: "Badge store",
 
   // Tours Grid

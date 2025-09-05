@@ -35,7 +35,7 @@ const de = {
 
   // App CTA
   app_h2: "App laden",
-  app_p: "Web-App sofort starten – Installierbar als PWA. Native iOS/Android in Arbeit.",
+  app_p: "",
   app_badges: "Store-Badges",
 
   // Tours Grid

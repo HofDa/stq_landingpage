@@ -26,6 +26,7 @@ const en = {
 
   // How it works
   how_h2: "How it works",
+  how_subtitle: "Start your adventure.",
   how_step1_title: "Choose a tour",
   how_step1_desc: "Pick a local quest — duration, distance & languages at a glance.",
   how_step2_title: "Solve puzzles",

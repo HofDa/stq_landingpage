@@ -1,4 +1,3 @@
-// src/features/landing/components/HowItWorks.tsx
 import React from "react";
 import { motion } from "framer-motion";
 import { MapPin, Sparkles, Users } from "lucide-react";
@@ -22,6 +21,16 @@ export default function HowItWorks({ t }: { t: TFunction }) {
       description: t("how_step3_desc"),
     },
   ];
+
+    // Wenn noch nichts geladen ist → alle Felder leer
+  const isLoading = steps.some(
+    (s) => !s.title || !s.description
+  );
+
+  if (isLoading) {
+    return null; // oder Spinner / Skeleton
+  }
+
 
   return (
     <section id="how" className="mx-auto max-w-7xl px-4 py-16">

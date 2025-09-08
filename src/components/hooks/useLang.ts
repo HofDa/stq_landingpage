@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import type { Lang } from "@/types/tour";
+import type { Lang } from "../types/tour";
 
 const STORAGE_KEY = "stq.lang" as const;
 

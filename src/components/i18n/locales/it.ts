@@ -26,6 +26,7 @@ const it = {
 
   // How it works
   how_h2: "Come funziona",
+  how_subtitle: "Inizia la tua avventura.",
   how_step1_title: "Scegli il tour",
   how_step1_desc: "Scegli una quest locale – durata, distanza e lingue in panoramica.",
   how_step2_title: "Risolvi gli enigmi",

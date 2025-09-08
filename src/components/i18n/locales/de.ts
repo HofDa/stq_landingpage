@@ -26,11 +26,12 @@ const de = {
 
   // How it works
   how_h2: "So funktioniert’s",
+  how_subtitle: "Starte dein Abenteuer.",
   how_step1_title: "Tour wählen",
   how_step1_desc: "Wähle eine lokale Quest – Dauer, Distanz & Sprache im Überblick.",
   how_step2_title: "Rätsel lösen",
   how_step2_desc: "Finde Marker, scanne Codes, knacke Rätsel – ganz ohne Anmeldung.",
-  how_step3_title: "Stadt/Natur entdecken",
+  how_step3_title: "Südtirol erleben",
   how_step3_desc: "Gemeinsam erleben – perfekt für Familien & Schulklassen.",
 
   // App CTA

@@ -20,13 +20,13 @@ const en = {
 
   // Hero B2B
   b2b_h1: "Your destination as a playable experience",
-  b2b_p: "From idea to experience: custom GPS quests that connect communities, create lasting impact, and deliver unforgettable impressions.",
+  b2b_p: "Turnkey, GDPR-compliant GPS quests — locally embedded, professionally researched, maintainable.",
   b2b_cta_demo: "Request demo",
   b2b_cta_benefits: "View benefits",
 
   // How it works
   how_h2: "How it works",
-  how_subtitle: "Start your adventure.",
+  how_subtitle: "How to start your adventure.",
   how_step1_title: "Choose a tour",
   how_step1_desc: "Pick a local quest — duration, distance & languages at a glance.",
   how_step2_title: "Solve puzzles",

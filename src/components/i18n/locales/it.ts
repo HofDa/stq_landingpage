@@ -20,7 +20,7 @@ const it = {
 
   // Hero B2B
   b2b_h1: "Il vostro territorio come esperienza di gioco",
-  b2b_p: "Quest GPS chiavi in mano, conformi al GDPR – radicate localmente, curate e manutenibili.",
+  b2b_p: "Dall’idea all’esperienza: GPS quest su misura che uniscono le comunità, hanno un impatto duraturo e creano impressioni indimenticabili.",
   b2b_cta_demo: "Richiedi demo",
   b2b_cta_benefits: "Vedi i vantaggi",
 

@@ -20,7 +20,7 @@ const de = {
 
   // Hero B2B
   b2b_h1: "Ihr Ort als spielbares Erlebnis",
-  b2b_p: "Schlüsselfertige, DSGVO-konforme GPS-Quests – lokal eingebettet, professionell recherchiert, wartbar.",
+  b2b_p: "Von der Idee bis zum Erlebnis: individuelle GPS-Quests, die Gemeinschaften verbinden, nachhaltig wirken und unvergessliche Eindrücke schaffen.",
   b2b_cta_demo: "Demo anfragen",
   b2b_cta_benefits: "Vorteile ansehen",
 
